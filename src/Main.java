@@ -5,5 +5,6 @@ public class Main {
         System.out.println(TeenNumberChecker.hasTeen(23, 15, 42));
         System.out.println(TeenNumberChecker.hasTeen(22, 23, 34));
 
+
     }
 }

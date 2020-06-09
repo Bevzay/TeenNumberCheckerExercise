@@ -21,4 +21,16 @@ public class TeenNumberChecker {
         return false;
     }
 
+    // Part 2
+    /*
+     * Write another method named isTeen with 1 parameter of type int
+     *
+     * The method should return boolean and it needs to return true if the parameter is in range
+     * 13(inclusive) - 19(inclusive)
+     *
+     * Otherwise, false
+     */
+
+
+
 }
